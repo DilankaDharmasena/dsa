@@ -1,2 +1,3 @@
-# dsa
-Implementations of various data structures and algorithms
+# Data Structures and Algorithms
+
+An assortment of data structures, algorithms, and solutions to coding problems
